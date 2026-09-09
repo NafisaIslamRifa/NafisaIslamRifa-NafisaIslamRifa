@@ -40,6 +40,20 @@ Thesis: *Temporal Misalignment Tackling in Video Moment Retrieval*
 IEEE ICCIT 2024  
 https://ieeexplore.ieee.org/document/11022356
 
+
+
+**Visual Grounding and Explainability for Prompt-Driven Radiology Report Generation**  
+MICAD 2026  
+Accepted for publication and presentation
+
+---
+
+
+
+**Video Moment Retrieval: A Survey of Methods, Benchmarks, and Open Challenges in the Multimodal LLM Era**  
+Computer Vision and Image Understanding (Elsevier)  
+Under Review
+
 ---
 
 ## 🔬 Research Experience
