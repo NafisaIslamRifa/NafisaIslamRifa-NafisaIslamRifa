@@ -46,9 +46,6 @@ https://ieeexplore.ieee.org/document/11022356
 MICAD 2026  
 Accepted for publication and presentation
 
----
-
-
 
 **Video Moment Retrieval: A Survey of Methods, Benchmarks, and Open Challenges in the Multimodal LLM Era**  
 Computer Vision and Image Understanding (Elsevier)  
@@ -142,6 +139,11 @@ Python • Machine Learning • Web Development • Database
 Best Technical Presentation Award — IEEE ICCIT 2024  
 
 ---
+
+## 🧑‍🔬 Services
+
+- **Reviewer**, MI4MedFM Workshop at MICCAI 2026
+- **Reviewer**, Women in Machine Learning (WiML) Workshop @ NeurIPS 2026
 
 ## 🔗 Connect With Me
 Google Scholar: https://scholar.google.co.uk/citations?user=WGKC7egAAAAJ  
